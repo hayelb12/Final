@@ -185,15 +185,12 @@ namespace ClientAdv
             this.CreateButton.TabIndex = 12;
             this.CreateButton.Text = "Create";
             this.CreateButton.UseVisualStyleBackColor = true;
-<<<<<<< HEAD
-            this.CreateButton.Click += new System.EventHandler(this.CreateButton_Click);
-=======
+            this.CreateButton.Click += new System.EventHandler(this.CreateButton_Click); 
+
             this.CreateButton.Visible = false;
-<<<<<<< HEAD
             this.CreateButton.Click += new System.EventHandler(this.CreateButton_Click);
-=======
->>>>>>> 11df0a5496d97280b0ebdbc23c356a5412dbb441
->>>>>>> cc651d2d1e8242764baecdf306f0374cc2ce7f2f
+
+
             // 
             // EndMin
             // 

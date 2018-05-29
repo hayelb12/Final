@@ -154,14 +154,12 @@ namespace ClientAdv
             this.CreateButton.Visible = true;
         }
 
-<<<<<<< HEAD
-=======
+
         private void startQueue_ValueChanged(object sender, EventArgs e)
         {
 
         }
 
->>>>>>> cc651d2d1e8242764baecdf306f0374cc2ce7f2f
         private void CreateButton_Click(object sender, EventArgs e)
         {
 
